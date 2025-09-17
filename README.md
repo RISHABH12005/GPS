@@ -1,1 +1,1 @@
-# GPS (u-blox NEO-M8N GPS/GNSS receiver)
+# GPS (U-blox NEO-M8N GPS/GNSS Receiver)
