@@ -41,4 +41,4 @@ sudo cat /dev/serial0
 ```besh
 sudo gpsmon /dev/serial0
 ```
-- [Error & Verification]()
+- [Error](https://github.com/RISHABH12005/GPS/blob/main/error.md)
