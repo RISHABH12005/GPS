@@ -1,6 +1,10 @@
 # GPS (U-blox NEO-M8N GPS/GNSS Receiver)
 - A high performance Global Positioning System \ Global Navigation Satellite System receiver module for precise positioning & navigation.
-- Supports multiple satellite systems: GPS (USA), GLONASS (Russia), Galileo (Europe), BeiDou (China)
+- Supports multiple satellite systems:
+  - GPS (USA)
+  - GLONASS (Russia)
+  - Galileo (Europe)
+  - BeiDou (China)
 - Works on the L1 frequency band (1575.42 MHz).
 
 ## GPS GPIO Connection
@@ -15,7 +19,9 @@
 - High sensitivity → works in weak signal env.
 - Fast Time-To-First-Fix (TTFF) → acquires satellites quickly (cold start: ~26s, hot start: ~1s).
 - Update rate : up to 10 Hz (10 position updates per second).
-- Accuracy: Horizontal position: ~2.5 m (without correction), Timing accuracy: ~30 ns with PPS output.
+- Accuracy:
+  - Horizontal position: ~2.5 m (without correction).
+  - Timing accuracy: ~30 ns with PPS output.
 - PPS (Pulse Per Second) pin → useful for time synchronization.
   
 ## Installation
