@@ -7,3 +7,8 @@
 | *GND* | Ground | Pin 6 \ 9 (GND) |
 | *TXD* | Transmit | Pin 10 (GPIO15, RXD) |
 | *RXD* | Receive | Pin 8 (GPIO14, TXD) |
+
+## Installation
+```besh
+sudo raspi-config
+```
