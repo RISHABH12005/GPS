@@ -5,5 +5,5 @@
 |----------|----------|---------------------|
 | **VCC (3.3V \ 5V)** | Power supply | Pin 1 (3.3V) \ Pin 2 \ 4 (5V) |
 | *GND* | Ground | Pin 6 \ 9 (GND) |
-| *TXD* | GPS Transmit | Pin 10 (GPIO15, RXD) |
-| *RXD* | GPS Receive | Pin 8 (GPIO14, TXD) |
+| *TXD* | Transmit | Pin 10 (GPIO15, RXD) |
+| *RXD* | Receive | Pin 8 (GPIO14, TXD) |
